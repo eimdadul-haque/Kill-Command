@@ -18,6 +18,6 @@
 ```legal
 By accessing, downloading, or using this software, you AGREE that:
 1. You accept FULL responsibility for ALL consequences
-2. The author (@YourUsername) is ZERO% liable for damages
+2. The author (eimdadul-haque) is ZERO% liable for damages
 3. This is for EDUCATIONAL/RESEARCH purposes ONLY
 4. Commercial/malicious use is STRICTLY PROHIBITED
