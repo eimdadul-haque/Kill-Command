@@ -1,21 +1,49 @@
-MIT License
+DESTRUCTIVE SOFTWARE LICENSE AGREEMENT
 
-Copyright (c) 2025 Eimdadul Haque Moon
+WARNING: THIS PROGRAM IS DESIGNED TO CAUSE IRREVERSIBLE SYSTEM DAMAGE.
+EXECUTING THIS CODE WILL DESTROY DATA AND MAY CRASH HARDWARE PERMANENTLY.
+BY USING THIS SOFTWARE, YOU AGREE TO THESE TERMS:
+
+1. NO LIABILITY
+   The author(s) expressly DISCLAIM ALL LIABILITY for:
+   - Data loss, hardware damage, or system failures
+   - Legal consequences arising from use/misuse
+   - Any direct/indirect damages (including existential risks)
+
+2. RESEARCH USE ONLY
+   This software is licensed SOLELY for:
+   - Academic research in controlled environments
+   - Security testing on legally-owned systems
+   - Virtual machines with no network access
+
+3. STRICT PROHIBITIONS
+   You MAY NOT:
+   - Distribute to third parties without this license
+   - Use in production systems or critical infrastructure
+   - Employ for malicious purposes (violates GitHub TOS)
+
+4. AUTOMATIC ACCEPTANCE
+   Cloning this repository or executing the code constitutes:
+   - Full acceptance of these terms
+   - Waiver of all legal claims against the author(s)
+   - Acknowledgment of catastrophic risks
+
+--- BEGIN MIT LICENSE TEXT ---
+
+Copyright (c) 2023 [eimdadul-haque]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+in the Software without restriction EXCEPT AS NOTED IN SECTION 3 ABOVE.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+[... standard MIT terms continue ...]
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--- END LICENSE ---
